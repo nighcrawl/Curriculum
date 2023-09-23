@@ -1,0 +1,38 @@
+[
+    {
+        "section": "Front-End",
+        "objects": [
+            "HTML5",
+            "CSS3",
+            "Sass",
+            "Compass",
+            "JavaScript",
+            "jQuery",
+            "AngularJS (notions)",
+            "ReactJS (notions)",
+            "Smarty",
+            "Jekyll",
+            "NPM/Gulp/Grunt"
+        ]
+    },
+    {
+        "section": "Back-End",
+        "objects": [
+            "PHP",
+            "CodeIgniter (notions)",
+            "Symfony",
+            "MySQL",
+            "Python",
+            "Git"
+        ]
+    },
+    {
+        "section": "Logiciels",
+        "objects": [
+            "Photoshop",
+            "Illustrator",
+            "Visual Studio Code",
+            "GitKraken"
+        ]
+    }
+]

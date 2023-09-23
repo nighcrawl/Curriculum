@@ -1,0 +1,68 @@
+[
+    {
+        "jobTitle": "Développeur Front-End",
+        "dateStart": "2018-12-01",
+        "dateEnd": null,
+        "company": {
+            "name": "Concept Factory",
+            "website": "https://www.conceptfactory.lu",
+            "location": "Luxembourg (LU)"
+        },
+        "description": "<p>Intégration de newsletters, développement front-end de sites Web, Conception et intégration de bannières Web animées avec JavaScript pour les clients.</p><p><b>Quelques projets sur lesquels j'ai travaillé&nbsp;:</b></p><ul><li><a href=\"https://lih.lu\">Luxembourg Institute of Health</a></li><li><a href=\"https://croix-rouge.lu\">Croix-Rouge luxembourgeoise</a></li><li><a href=\"https://schnekert.lu\">De Schnékert Traiteur</a></li><li><a href=\"https://mobiliteit.lu\">Mobilitéit</a></li><li><a href=\"https://flex.lu\">Flex Carsharing</a></li><li><a href=\"https://mvos.lu\">#MVOS2019</a></li></ul>"
+    },
+    {
+        "jobTitle": "Développeur Web",
+        "dateStart": "2015-01-19",
+        "dateEnd": "2018-11-30",
+        "company": {
+            "name": "Ibakus Europe SA",
+            "website": "https://www.ibakus.com",
+            "location": "Strassen (LU)"
+        },
+        "description": "<p>D&eacute;veloppement d'applications Web en PHP et JavaScript destin&eacute;es aux professionnels de la finance et du droit. Conception du nouveau site de pr&eacute;sentation.</p><p>D&eacute;veloppement d'une API permettant d'afficher les informations d'une soci&eacute;t&eacute; disponibles aux registres du commerce luxembourgeois, belge et fran&ccedil;ais aliment&eacute;e grâce &agrave; plusieurs scrapers en Python et PHP.</p>"
+    },
+    {
+        "jobTitle": "Développeur et designer Web",
+        "dateStart": "2010-06-01",
+        "dateEnd": "2014-12-31",
+        "company": {
+            "name": "CBC Informatique",
+            "website": "https://www.cbc.lu",
+            "location": "Bascharage (LU)"
+        },
+        "description": "<p>Application Web de g&eacute;olocalisation de v&eacute;hicule en temps r&eacute;el : <em>conception de l'interface utilisateur adapt&eacute;e pour desktop, tablette et smartphone, utilisation des donn&eacute;es cartographiques Open Street Map, dessins et int&eacute;ractions sur la carte via l'API Leaflet, utilisation de divers services Web de geocoding/reverse geocoding.</em></p><p>Cr&eacute;ation d'une plateforme intranet : <em>600 comptes utilisateur, gestion des droits d'acc&egrave;s, partage de documents, agenda, forums de discussion, volet de notifications.</em></p><p>R&eacute;alisation d'un mini CMS adaptable aux besoins sp&eacute;cifiques des clients.</p><p>Conception et envoi de newsletters en partenariat avec HP, Lenovo et Microsoft en accord avec les <i>Guidelines</i> de chaque partenaire.</p>"
+    },
+    {
+        "jobTitle": "Développeur Web stagiaire",
+        "dateStart": "2009-06-01",
+        "dateEnd": "2009-09-11",
+        "company": {
+            "name": "CBC Informatique",
+            "website": "https://www.cbc.lu",
+            "location": "Bascharage (LU)"
+        },
+        "description": "<p>Refonte d'une boutique en ligne en vue d'obtenir une Licence professionnelle Web et commerce &eacute;lectronique : <em>&eacute;tude de  l'existant, r&eacute;daction d'un cahier des charges, d&eacute;finition et int&eacute;gration de la nouvelle charte graphique, d&eacute;veloppement d'un CMS e-commerce personnalis&eacute;, mise en place d'un module de paiement en ligne s&eacute;curis&eacute;.</em></p>"
+    },
+    {
+        "jobTitle": "Développeur Web stagiaire",
+        "dateStart": "2008-12-01",
+        "dateEnd": "2009-04-30",
+        "company": {
+            "name": "Unpointzéro",
+            "website": "https://www.unpointzero.com",
+            "location": "Metz (FR)"
+        },
+        "description": "<p>Cr&eacute;ation d'un site Web de d&eacute;p&ocirc;t d'&oelig;uvres num&eacute;riques dans le cadre de la licence professionnelle : <em>travail collaboratif, d&eacute;finition et r&eacute;daction du cahier des charges, r&eacute;partition des t&acirc;ches, d&eacute;veloppement du module d'inscription utilisateurs.</em></p>"
+    },
+    {
+        "jobTitle": "Développeur Web stagiaire",
+        "dateStart": "2008-01-01",
+        "dateEnd": "2008-02-29",
+        "company": {
+            "name": "IPcube",
+            "website": null,
+            "location": "Montigny-lès-Metz (FR)"
+        },
+        "description": "<p>D&eacute;veloppement d'un site de gestion de listes de mariage dans le but de valider un BTS Informatique de gestion : <em>d&eacute;finition des diff&eacute;rents niveaux d'acc&egrave;s utilisateurs, cr&eacute;ation du back office, d&eacute;veloppement du module d'inscription et de cr&eacute;ation de listes de mariage.</em></p>"
+    }
+]
